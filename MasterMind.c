@@ -95,7 +95,7 @@ void compare_codes(int board[],int *wellplacedpawns,int *missplacedpawns){
       for(int tries=0; tries<NUM_ATTEMPTS; tries++){
          printf("attempt %d of %d\n", tries+1, NUM_ATTEMPTS);
 
-         // we execute our main functions
+         // executing the main functions
 
                   read_proposed_code(board);
                   compare_codes(board, &wellplacedpawns, &missplacedpawns);
@@ -117,4 +117,5 @@ void compare_codes(int board[],int *wellplacedpawns,int *missplacedpawns){
      srand(time(NULL));
    game();
    return 0;
+
 }
