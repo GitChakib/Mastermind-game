@@ -10,8 +10,11 @@
 <br />
 
 <!-- PREVIEW / DEMO -->
+<img width="345" height="120" alt="image3" src="https://github.com/user-attachments/assets/f4fcb1b9-3eff-4e36-8f97-2fc68baf76a5" />
 
-https://media.discordapp.net/attachments/1489683397164011560/1553104528440823999/image.png?ex=6ab808ce&is=6ab6b74e&hm=8fb4f1b8be0eddf75879227e25de5bbe6be5f6f024fd21b1f2e46aca37f0c8a0&=&format=webp&quality=lossless
+<img width="603" height="117" alt="image2" src="https://github.com/user-attachments/assets/b3975a36-4e25-4dfe-9134-09d6d585067c" />
+
+<img width="639" height="183" alt="image" src="https://github.com/user-attachments/assets/6b1861d2-3f21-4055-8719-b1980cea555d" />
 
 
 ## 🛠 Tech Stack
