@@ -10,6 +10,7 @@
 <br />
 
 <!-- PREVIEW / DEMO -->
+<div align="center">
 <img width="345" height="120" alt="image3" src="https://github.com/user-attachments/assets/f4fcb1b9-3eff-4e36-8f97-2fc68baf76a5" />
 
 <br />
@@ -18,7 +19,7 @@
 <br />
 
 <img width="639" height="183" alt="image" src="https://github.com/user-attachments/assets/6b1861d2-3f21-4055-8719-b1980cea555d" />
-
+</div>
 
 ## 🛠 Tech Stack
 
