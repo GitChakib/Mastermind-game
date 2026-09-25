@@ -11,6 +11,8 @@
 
 <!-- PREVIEW / DEMO -->
 
+https://media.discordapp.net/attachments/1489683397164011560/1553104528440823999/image.png?ex=6ab808ce&is=6ab6b74e&hm=8fb4f1b8be0eddf75879227e25de5bbe6be5f6f024fd21b1f2e46aca37f0c8a0&=&format=webp&quality=lossless
+
 
 ## 🛠 Tech Stack
 
